@@ -2,7 +2,8 @@
 
 CampusLife AI는 캠퍼스 안에서 여러 Agent가 하루 일정을 계획하고, 같은 장소에서 만났을 때 대화하며, 대화에서 얻은 사실을 기억으로 저장하고 관계 Reflection을 갱신하는 멀티 에이전트 생활 시뮬레이션 과제입니다.
 
-외부 API나 LLM 서버가 없어도 실행되도록 deterministic mock 방식으로 만들었습니다. 실행 결과는 JSON 로그와 Markdown 리포트로 저장됩니다.
+외부 API나 LLM 서버가 없어도 실행되도록 deterministic mock 방식으로 만들었습니다. 
+실행 결과는 JSON 로그와 Markdown 리포트로 저장됩니다.
 
 ## 주요 기능
 
